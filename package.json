@@ -1,0 +1,23 @@
+{
+  "name": "week6lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu3351/week6lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanshu3351/week6lab/issues"
+  },
+  "homepage": "https://github.com/Himanshu3351/week6lab#readme",
+  "description": "",
+  "dependencies": {
+    "os-utils": "^0.0.14"
+  }
+}
